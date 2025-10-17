@@ -3,8 +3,6 @@
 This project is a simple real estate listings web application built using **React**, **TypeScript**, and **Leaflet** for interactive map display.  
 It includes property filters, detailed listing views, and a price chart visualization.
 
----
-
 ## How to Run the Project
 
 ### 1. Clone the repository
