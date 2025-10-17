@@ -27,12 +27,12 @@ The app will be available at http://localhost:5173 (Vite default).
 
 ### Project Features
 
-# Property listing with filters (price, bedrooms, location) 
+#### Property listing with filters (price, bedrooms, location) 
 
-# Detailed property view with price history chart (using Recharts)
+#### Detailed property view with price history chart (using Recharts)
 
-# Interactive map (Leaflet)
+#### Interactive map (Leaflet)
 
-# Responsive design
+#### Responsive design
 
 # Modular component structure
